@@ -1,0 +1,3 @@
+<IfModule lsapi_module>
+  AddHandler application/x-httpd-php74 .php
+</IfModule>
